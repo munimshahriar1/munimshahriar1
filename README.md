@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! I'm Munim Shahriar, Fullstack developer from <b>Hong Kong SAR</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197570.png" width="13"/> </p>
+<p>Welcome to my page! I'm Munim Shahriar, Fullstack developer from <b>Hong Kong SAR</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197570.png" width="20"/> </p>
 
 <h2>My projects</h2>
 <table>
