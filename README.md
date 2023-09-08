@@ -23,6 +23,10 @@
     </tr>
 	<tr>
       <td><a href="https://github.com/iPYGG/fishnet_app"><b>Fishnet e-commerce platform</b></a></td>
+      <td><img alt="Stars"/></td>
+      <td><img alt="Forks"/></td>
+      <td><img alt="Issues"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Crypticio/cryptic-fe"?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
