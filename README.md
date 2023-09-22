@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! I'm Munim Shahriar, Fullstack developer based in <img src="https://cdn-icons-png.flaticon.com/512/197/197570.png" width="15" height="15"/> <b>Hong Kong.</b></p>
+<p>Welcome to my page! I'm Munim Shahriar, a Fullstack developer based in <img src="https://cdn-icons-png.flaticon.com/512/197/197570.png" width="15" height="15"/> <b>Hong Kong.</b></p>
 
 <h2>My projects</h2>
 <table>
@@ -30,6 +30,20 @@
     </tr>
   </tbody>
 </table>
+
+<h2>My projects - Cryptic.io : A High Performance Trading Platform</h2>
+
+**Snapshots**
+
+<img width="1512" alt="image" src="https://github.com/Crypticio/cryptic-fe/assets/76565246/cf022a32-3e05-449c-b9a0-b1977470621a">
+
+<img width="516" alt="image" src="https://github.com/Crypticio/cryptic-fe/assets/76565246/87f35d2c-0225-4954-93fb-0d67487b8bd7">
+
+<img width="508" alt="image" src="https://github.com/Crypticio/cryptic-fe/assets/76565246/ee3da0d5-552c-49f4-a716-4e50f9861ff6">
+
+**Current Exchanges**
+
+<img width="221" alt="image" src="https://github.com/Crypticio/cryptic-fe/assets/76565246/220ecd62-270d-46cc-90fa-978d2853e650">
 
 <h2>Things I code with</h2>
 <p>
