@@ -39,10 +39,6 @@ Trading Platform @ https://cryptic-fe-pearl.vercel.app/trade
 
 <img width="1512" alt="image" src="https://github.com/Crypticio/cryptic-fe/assets/76565246/cf022a32-3e05-449c-b9a0-b1977470621a">
 
-<img src="https://github.com/Crypticio/cryptic-fe/assets/76565246/87f35d2c-0225-4954-93fb-0d67487b8bd7" alt="Image 1" width="50%" />
-<img src="https://github.com/Crypticio/cryptic-fe/assets/76565246/ee3da0d5-552c-49f4-a716-4e50f9861ff6" alt="Image 2" width="50%" />
-
-
 <h2>Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
