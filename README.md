@@ -31,7 +31,8 @@
   </tbody>
 </table>
 
-<h2>My projects - Cryptic.io : A High Performance Trading Platform</h2>
+<h2>Projects - Cryptic.io : A High Performance Trading Platform</h2>
+
 Trading Platform @ https://cryptic-fe-pearl.vercel.app/trade
 
 **Snapshots**
