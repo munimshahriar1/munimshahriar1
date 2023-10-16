@@ -102,5 +102,3 @@ I am interested in building a professional career in financial technology servic
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
