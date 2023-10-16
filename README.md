@@ -24,18 +24,6 @@ I am interested in building a professional career in financial technology servic
 
 <br/>  
 
-
-## Projects  
-
--  I’m currently working on Cryptic.io - A Cross Exchange Trading & Portfolio Management Platform, accessed at https://cryptic-fe-pearl.vercel.app/trade
-
--  I've developed mobile apps like [Pulse 9 Digital Financing](https://github.com/munimshahriar1/financial-app) using Flutter and [CXperience](https://github.com/angusleung0724/CXperience) using React Native
-  
-- 🌱 I’m currently learning Java Spring and Kafka 
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -71,6 +59,16 @@ I am interested in building a professional career in financial technology servic
 <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="25" /></a>  
 <a href="https://www.cordova.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cordova.png" alt="Cordova" height="25" /></a>  
 </div>  
+
+<br/>  
+
+## Projects  
+
+-  I’m currently working on Cryptic.io - A Cross Exchange Trading & Portfolio Management Platform, accessed at https://cryptic-fe-pearl.vercel.app/trade
+
+-  I've developed mobile apps like [Pulse 9 Digital Financing](https://github.com/munimshahriar1/financial-app) using Flutter and [CXperience](https://github.com/angusleung0724/CXperience) using React Native
+  
+- 🌱 I’m currently learning Java Spring and Kafka 
 
 <br/>  
 
