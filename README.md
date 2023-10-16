@@ -25,8 +25,7 @@ I am interested in building a professional career in financial technology servic
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Projects  
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
@@ -38,13 +37,6 @@ I am interested in building a professional career in financial technology servic
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
