@@ -27,16 +27,12 @@ I am interested in building a professional career in financial technology servic
 
 ## Projects  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+-  I’m currently working on Cryptic.io - A Cross Exchange Trading & Portfolio Management Platform, accessed at https://cryptic-fe-pearl.vercel.app/trade
+
+-  I've have developed mobile apps like [Pulse 9 Digital Financing](https://github.com/munimshahriar1/financial-app)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 🌱 I’m currently learning Java Spring and Kafka 
 
 <br/>  
 
