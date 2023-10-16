@@ -12,8 +12,6 @@
 ## Hey 👋, I'm Munim Shahriar!  
   
 
-
-
 ### Glad to see you here!  
 Hello! I am Munim, a full-stack developer based in Hong Kong. My interests mostly lie in the space of technology - full-cycle software development (Python, Node.js, React, Angular, Flutter) and infrastructure development. I am a passionate learner of new tech stacks and tools.
 
@@ -66,7 +64,7 @@ I am interested in building a professional career in financial technology servic
 
 -  I’m currently working on Cryptic.io - A Cross Exchange Trading & Portfolio Management Platform, accessed at https://cryptic-fe-pearl.vercel.app/trade
 
--  I've developed mobile apps like [Pulse 9 Digital Financing](https://github.com/munimshahriar1/financial-app) using Flutter and [CXperience](https://github.com/angusleung0724/CXperience) using React Native
+-  I've developed mobile apps like [Pulse 9 Digital Financing](https://github.com/munimshahriar1/financial-app) using Flutter and [CXperience](https://github.com/angusleung0724/CXperience) using React Native.
   
 - 🌱 I’m currently learning Java Spring and Kafka 
 
@@ -75,15 +73,8 @@ I am interested in building a professional career in financial technology servic
 
 ## Github Stats  
 
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munimshahriar1&hide_border=true&layout=compact" align="left" style="width: 40%" /></div>
 
 <br/>  
 
-<br/>  
-
-<br/>  
-
-
-<br />
 
