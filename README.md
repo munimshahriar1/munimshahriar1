@@ -29,9 +29,8 @@ I am interested in building a professional career in financial technology servic
 
 -  I’m currently working on Cryptic.io - A Cross Exchange Trading & Portfolio Management Platform, accessed at https://cryptic-fe-pearl.vercel.app/trade
 
--  I've have developed mobile apps like [Pulse 9 Digital Financing](https://github.com/munimshahriar1/financial-app)  
+-  I've developed mobile apps like [Pulse 9 Digital Financing](https://github.com/munimshahriar1/financial-app) using Flutter and [CXperience](https://github.com/angusleung0724/CXperience) using React Native
   
-
 - 🌱 I’m currently learning Java Spring and Kafka 
 
 <br/>  
