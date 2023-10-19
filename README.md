@@ -6,7 +6,7 @@
 </a>
   
 
-## Hey 👋, I'm Munim Shahriar!  
+## Hey 👋, I'm Mohammad Munim Shahriar!  
   
 
 ### Glad to see you here!  
