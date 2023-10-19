@@ -14,7 +14,12 @@ Hello! I am Munim, a full-stack developer based in Hong Kong. My interests mostl
 
 My current enterprise project is Cryptic.io - A Cross Exchange Trading & Portfolio Management Platform, accessed at https://cryptic-fe-pearl.vercel.app/trade . 
 
-I am interested in building a professional career in financial technology services. If you find my projects interesting or would just like to connect, feel free to contact me at munimshahriar0102@gmail.com, I'd be more than happy to connect!  
+I am interested in building a professional career in 
+  - Financial Technology (FinTech) Services.
+  - Exciting Up-and-coming Technologies.
+  - Graduate Developer 2024 Developer Opportunities. 
+
+If you find my projects interesting or would just like to connect, feel free to contact me at munimshahriar0102@gmail.com, I'd be more than happy to connect!  
   
 
 <br/>  
